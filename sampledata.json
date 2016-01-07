@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": -84.3,
+    "lat": 37.57
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "sky is clear",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 271.03,
+    "pressure": 1031,
+    "humidity": 63,
+    "temp_min": 270.15,
+    "temp_max": 272.15
+  },
+  "visibility": 16093,
+  "wind": {
+    "speed": 2.1,
+    "deg": 20
+  },
+  "clouds": {
+    "all": 1
+  },
+  "dt": 1451958301,
+  "sys": {
+    "type": 1,
+    "id": 1152,
+    "message": 0.0369,
+    "country": "US",
+    "sunrise": 1451998345,
+    "sunset": 1452033165
+  },
+  "id": 4283974,
+  "name": "Berea",
+  "cod": 200
+}
